@@ -1,0 +1,154 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    
+}
+/*Main  div 1 first section*/
+
+
+#section1{
+    padding-left: 100px;
+   padding-bottom: 10%;
+    background-color: rgb(26, 73, 77);
+}
+/*Small nav in top*/
+
+#div1{
+    
+    display: inline-block;
+    margin-left: 58%;
+}
+#snav{
+  
+   
+    padding-right: 50px;
+}
+#snav >a{
+    text-decoration: none;
+    color: white;
+}
+#snav >a>li{
+    display: inline;
+    padding-left: 10px;
+    font-size: 12px;
+    
+  
+}
+#snav >a:hover{
+    text-decoration: underline;
+}
+
+.drpdwn{
+    position:absolute;
+ 
+}
+
+
+/*2nd  Navigation  div*/
+
+#mainnavbar{
+  display: block;
+
+}
+.navitem{
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+}
+#mainnavitem{  margin-top: 20px;
+    margin-left: 40px;
+}
+#mainnavitem>a{
+ text-decoration: none;
+ color: white;
+ margin-left: 40px;
+ 
+ 
+}
+#mainnavitem>a:hover{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 15px;
+}
+#mainnavitem>a>li{
+    padding-right: 30px;
+    
+   }
+#freetrialbutton>a{
+    text-decoration: none;
+    color:  rgb(26, 73, 77);
+}
+#freetrialbutton{
+    width: 100px;
+    text-align: center;
+     margin-left: 10px;
+       background-color:white;
+       background-position: center;
+      padding: 10px;
+       font-size: 20px;
+    
+   }
+   #buynowbutton>a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid white;
+    text-align: center;
+   
+     margin-left: 20px;
+       background-color: transparent;
+       background-position: center;
+      padding: 10px;
+       font-size: 20px;
+}
+
+    #buynowbutton>a:hover{
+       background-color: white;
+       color: rgb(26, 73, 77);
+
+      
+   }
+
+   /* 2nd header div*/
+#headerdiv2{
+    display: block;
+    padding-top: 5%;
+}
+.headerdiv2{
+       display: inline-block;
+   }
+#hdiv2{
+       
+     
+       display: inline;
+       float:right;
+       margin-right: 200px;
+       padding-top: 50px;
+   }
+
+#chmpid{
+       
+    color:#CE9FB7; 
+    font-weight: bold;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   #chngingtxt{
+    color :wheat; 
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-thickness: 2;
+    font-size: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   }
+   #pc{
+    color: white;
+    font-size: 20px;
+   }
+   
+   /*Section 2 super offers*/
+
+   #section2{
+       display: block;
+   }
+
+   
